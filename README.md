@@ -4,3 +4,6 @@ This script looks through your messages every second to see if your mother or a 
 
 # Credits
 Ashwin Rajesh. In college, he came up with the first demo of the panic seller. 
+
+# Dependencies
+Must be run on MacOS to use the subprocess to look through iMessage.
